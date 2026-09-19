@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Byte-compiled / Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables & secrets (if applicable)
+.env
+
+# Database/Data exceptions (uncomment if applicable)
+# data/*.db
